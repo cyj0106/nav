@@ -1,5 +1,5 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/cyj0106/nav@image/nav-1712328940801-wangzhanhome.jpeg",
+  "favicon": "https://cyj0106.github.io/image/wangzhanhome.jpeg",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "random",
@@ -16,7 +16,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/cyj0106/nav@image/nav-1712326469968-640.webp",
+      "src": "https://cyj0106.github.io/image/fj1.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -27,7 +27,7 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/cyj0106/nav@image/nav-1712326572953-640.webp",
+      "src": "https://cyj0106.github.io/image/fj1.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -38,7 +38,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/cyj0106/nav@image/nav-1712326482934-640.webp",
+      "src": "https://cyj0106.github.io/image/fj1.jpg",
       "url": "",
       "width": null,
       "height": null
