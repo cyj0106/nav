@@ -1,7 +1,7 @@
 [
   {
     "name": "站内",
-    "icon": "https://cdn.jsdelivr.net/gh/cyj0106/nav@image/nav-1712329121521-sousuo.jpeg",
+    "icon": "https://cyj0106.github.io/image/sousuo.jpeg",
     "placeholder": "站内搜索",
     "blocked": false,
     "isInner": true
