@@ -1,4 +1,22 @@
 {
+  "SFPT_H5": {
+    "createdAt": "2024-04-06T04:46:14.471Z",
+    "color": "#04f500",
+    "desc": "移动端",
+    "isInner": false
+  },
+  "ZHCW_H5": {
+    "createdAt": "2024-04-06T04:45:38.980Z",
+    "color": "#00abf5",
+    "desc": "移动端",
+    "isInner": false
+  },
+  "门户网站": {
+    "createdAt": "2024-04-06T04:45:13.010Z",
+    "color": "#f500c0",
+    "desc": "门户",
+    "isInner": false
+  },
   "校园网": {
     "createdAt": "2024-04-05T14:21:16.196Z",
     "color": "#f50000",
