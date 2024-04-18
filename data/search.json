@@ -9,7 +9,7 @@
   {
     "name": "百度",
     "url": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=",
-    "icon": "https://cyj0106.百度.io/image/sousuo.jpeg",
+    "icon": "https://cyj0106.github.io/image/百度.png",
     "placeholder": "",
     "blocked": false,
     "isInner": false
